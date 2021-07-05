@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlokKumarTiwari1
+- 👋 Hi, I’m Alok
 - 👀 I’m interested in making discord bots.
 - 🌱 I’m currently learning Python And JAVA
 - 💞️ I’m looking to collaborate on discord bots.
