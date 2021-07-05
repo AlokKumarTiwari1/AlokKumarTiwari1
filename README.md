@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlokKumarTiwari1
 - 👀 I’m interested in making discord bots.
-- 🌱 I’m currently learning Pyhton And JAVA
+- 🌱 I’m currently learning Python And JAVA
 - 💞️ I’m looking to collaborate on discord bots.
 - 📫 How to reach me kumaraloktiwari1@gmail.com
 
