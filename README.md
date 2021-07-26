@@ -40,6 +40,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kumaralok"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kumaralok" /></a></p><br><br>
+<p><a href="https://ko-fi.com/kumaralok"> <img align="left" src="https://ko-fi.com/img/githubbutton_sm.svg" height="50" width="210" alt="kumaralok" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alokkumartiwari1&show_icons=true&theme=dark&cache_seconds=1800&locale=en&layout=compact" alt="alokkumartiwari1" /></p>
 
